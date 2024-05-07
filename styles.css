@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    border: 2px solid #000; /* Adds a black border to the canvas */
+    display: block;
+    margin: auto;
+}
